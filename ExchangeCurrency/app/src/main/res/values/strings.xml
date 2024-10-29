@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exchange Currency</string>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>VND</item>
+        <item>SGD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
